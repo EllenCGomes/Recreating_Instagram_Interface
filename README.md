@@ -1,3 +1,3 @@
 # Interface-Instagram
 
-Criacao da interface do Instagram
+Recriando a pagina inicial do Instagram
